@@ -15,4 +15,4 @@ function maxMinAvg(arr) {
     return `The minimum is ${min}, the maximum is ${max}, and the average is ${avg} `
 }
 
-console.log(maxMinAvg([1, -2, 9, 4])); 
+console.log(maxMinAvg([1, -2, 9, 4]));  
