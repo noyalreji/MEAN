@@ -20,3 +20,4 @@ function fizzbuzz(n){
   }
   fizzbuzz(15)
   fizzbuzz("fifteen")
+//
